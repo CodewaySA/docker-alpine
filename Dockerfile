@@ -1,7 +1,7 @@
 FROM alpine:3.10.9
 
 LABEL org.alpine.version="3.10.9"
-LABEL image_name="codewaysa/alpine"
+LABEL image-name="codewaysa/alpine"
 LABEL maintainer="l.lesinigo@codeway.ch"
 
 # prepare an updated Alpine Linux with included CA certificates
