@@ -1,6 +1,6 @@
-FROM alpine:3.14.3
+FROM alpine:3.14.6
 
-LABEL org.alpine.version="3.14.3"
+LABEL org.alpine.version="3.14.6"
 LABEL image-name="codewaysa/alpine"
 LABEL maintainer="l.lesinigo@codeway.ch"
 
