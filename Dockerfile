@@ -1,6 +1,6 @@
-FROM docker.io/alpine:3.18.3
+FROM docker.io/alpine:3.18.4
 
-LABEL org.alpine.version="3.18.3"
+LABEL org.alpine.version="3.18.4"
 LABEL image-name="codewaysa/alpine"
 LABEL maintainer="l.lesinigo@codeway.ch"
 
